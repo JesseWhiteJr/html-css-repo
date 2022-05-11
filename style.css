@@ -1,0 +1,52 @@
+h3 {
+    background-color: rgb(217, 253, 164);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.pink-panther .devilmaycry {
+    background-color: yellow;
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+
+.pink-panther {
+    background-color: rgb(230, 127, 178);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#bluesage {
+    color: blue;
+    font-size: 36px;
+}
+
+#blacksage {
+    color: brown;
+    font-size: 36px;
+}
+
+.marvelsage,
+.captainplanet {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.marvelsage {
+    background-color: black;
+    color: white;
+}
+
+.captainplanet {
+    background-color: yellow;
+}
+
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+}
+
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
